@@ -1,2 +1,41 @@
-# womens-t20-score-predictor
-Machine Learning project to predict Women's T20 first innings scores using match data and Streamlit.
+# Women's T20 First Innings Score Predictor
+
+## Overview
+
+This project predicts the final first innings score in Women's T20 cricket matches using Machine Learning.
+
+## Features
+
+- Real-time score prediction
+- Feature engineering
+- Streamlit web application
+- Machine Learning model
+
+## Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Streamlit
+
+## Performance
+
+- MAE: 8.74
+- RMSE: 12.21
+- R²: 0.898
+
+## Project Structure
+
+- Data Processing
+- Feature Engineering
+- Model Training
+- Streamlit Deployment
+
+## Screenshots
+
+(Add screenshots here)
+
+## Author
+
+Tejas Nathe
