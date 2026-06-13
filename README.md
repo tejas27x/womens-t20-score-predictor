@@ -34,7 +34,9 @@ This project predicts the final first innings score in Women's T20 cricket match
 
 ## Screenshots
 
-(Add screenshots here)
+### Home Page
+
+![Home Page](screenshots/Screenshot%202026-06-13%20132521.png)
 
 ## Author
 
