@@ -145,7 +145,7 @@ The application predicts the expected final first innings score.
 
 ### Model Performance
 
-![Performance](screenshots/phase_accuracy.png)
+![Performance](Screenshot%202026-06-13%20132521.png)
 
 ---
 
