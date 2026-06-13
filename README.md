@@ -141,7 +141,7 @@ The application predicts the expected final first innings score.
 
 ### Application Interface
 
-![Home Page](Screenshot%2026-06-13%163403.png)
+![Home Page](Screenshot%202026-06-13%20163403.png)
 
 ### Model Performance
 
