@@ -32,15 +32,9 @@ This project predicts the final first innings score in Women's T20 cricket match
 - Model Training
 - Streamlit Deployment
 
-## Screenshots
+## Screenshot
 
-### Home Page
-
-![Home Page](## Screenshots
-
-### Home Page
-
-![Home Page](screenshots/Screenshot%202026-06-13%20132521.png))
+!(Screenshot%202026-06-13%20132521.png))
 
 ## Author
 
